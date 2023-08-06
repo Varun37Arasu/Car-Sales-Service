@@ -3,6 +3,8 @@
 
 The Car Sales Management System is a transformative project that aims to revolutionize the traditional manual process of record-keeping for car owners and users. This innovative system harnesses the power of digital technology to empower customers to effortlessly select and customize their desired car service options. From routine maintenance to specialized repairs, the platform streamlines the entire car service experience, providing seamless interactions between customers and service providers. With this cutting-edge solution, the automotive industry takes a leap into the future, optimizing efficiency and enhancing customer satisfaction in the digital era.
 
+<br/>
+
 ### :sparkles: Features
 
 - **User-friendly Interface**: The system provides an intuitive and user-friendly interface for both car owners and service providers, making it easy to navigate and access the required information.
@@ -21,6 +23,9 @@ The Car Sales Management System is a transformative project that aims to revolut
 
 - **Performance Analytics**: The system provides valuable insights through data analytics, allowing service providers to optimize their operations and improve customer experiences.
 
+<br/>
+<br/>
+
 ### :wrench: Tools and Technology
 
 **Frontend:**  
@@ -38,23 +43,52 @@ The Car Sales Management System is a transformative project that aims to revolut
 
 
 
+<br/>
+<br/>
+
 ### :framed_picture: Project Snapshots
 
+### ModelV
+![alt](./project-pics/ModelV.jpg)
 
-## Images from Folder
-![Image Car-Specifications.jpg](./4th Sem PW2\CarSalesService\project-pics\Car-Specifications.jpg)
-![Image Details.jpg](./4th Sem PW2\CarSalesService\project-pics\Details.jpg)
-![Image ERDiagram.png](./4th Sem PW2\CarSalesService\project-pics\ERDiagram.png)
-![Image Featured-Models.jpg](./4th Sem PW2\CarSalesService\project-pics\Featured-Models.jpg)
-![Image Landing-Page-CoverUp.jpg](./4th Sem PW2\CarSalesService\project-pics\Landing-Page-CoverUp.jpg)
-![Image LandingPage.jpg](./4th Sem PW2\CarSalesService\project-pics\LandingPage.jpg)
-![Image ModelA.jpg](./4th Sem PW2\CarSalesService\project-pics\ModelA.jpg)
-![Image ModelS.jpg](./4th Sem PW2\CarSalesService\project-pics\ModelS.jpg)
-![Image ModelV.jpg](./4th Sem PW2\CarSalesService\project-pics\ModelV.jpg)
-![Image ModelY.jpg](./4th Sem PW2\CarSalesService\project-pics\ModelY.jpg)
-![Image Place-Order.jpg](./4th Sem PW2\CarSalesService\project-pics\Place-Order.jpg)
-![Image Schema-Diagram.png](./4th Sem PW2\CarSalesService\project-pics\Schema-Diagram.png)
-![Image Service-Page.jpg](./4th Sem PW2\CarSalesService\project-pics\Service-Page.jpg)
+### ModelA
+![alt](./project-pics/ModelA.jpg)
+
+### ModelS
+![alt](./project-pics/ModelS.jpg)
+
+### ModelY
+![alt](./project-pics/ModelY.jpg)
+
+### Featured-Models
+![alt](./project-pics/Featured-Models.jpg)
+
+### Car-Specifications
+![alt](./project-pics/Car-Specifications.jpg)
+
+### Landing-Page-CoverUp
+![alt](./project-pics/Landing-Page-CoverUp.jpg)
+
+### LandingPage
+![alt](./project-pics/LandingPage.jpg)
+
+### Place-Order
+![alt](./project-pics/Place-Order.jpg)
+
+### Service-Page
+![alt](./project-pics/Service-Page.jpg)
+
+### Details
+![alt](./project-pics/Details.jpg)
+
+### ERDiagram
+![alt](./project-pics/ERDiagram.png)
+
+### Schema-Diagram
+![alt](./project-pics/Schema-Diagram.png)
+
+
+
 
 
 
